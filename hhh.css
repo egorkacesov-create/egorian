@@ -1,0 +1,21 @@
+body {
+background: yellow;
+}
+table {
+text-align: center;
+color: white;
+background: black;
+}
+table td.w {
+text-align: left;
+background: pink;
+width: 700px;
+text-align: center;
+}
+table td.g {
+width: 700px;
+text-align: center;
+}
+h1 {
+text-align: center;
+}
